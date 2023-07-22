@@ -322,7 +322,7 @@ a {
 
 .message-me {
     position: relative;
-    margin: 20px 40px;
+    margin: 20px 10%;
     background-color: gray;
     border-radius: 10px;
 }
